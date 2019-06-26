@@ -19,7 +19,6 @@
 		- [Introduction](#Introduction)
 		- [Primary Goals](#Primary-Goals)
 		- [Design Rationale](#Design-Rationale)
-		- [Coolest features](#Coolest-features)
 		- [Product Biography](#Product-Biography)
 			- [Week 1](#Week-1)
 			- [Week 2](#Week-2)
@@ -136,13 +135,6 @@ Hopefully, you will notice the great care I put into even making this document a
 
 ### Design Rationale
 [View our design rationale on Google Docs](https://docs.google.com/document/d/1toyN4tPRlzsABDbuHqO_YPZbvK05ryDJZNUmT_EPXms/edit?usp=sharing).
-
-<br/>
-<br/>
-<br/>
-
-### Coolest features
-afdghdfgsdfgsdf
 
 <br/>
 <br/>
